@@ -1,0 +1,20 @@
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.dll.config
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.csprojResolveAssemblyReference.cache
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.dll.config
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.pdb
