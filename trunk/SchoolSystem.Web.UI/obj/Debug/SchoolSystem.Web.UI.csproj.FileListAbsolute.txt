@@ -1,0 +1,78 @@
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Web.UI.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Web.UI.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\Antlr3.Runtime.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\EntityFramework.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\Newtonsoft.Json.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Domain.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Service.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Mvc.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Optimization.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Providers.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Razor.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\WebGrease.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Domain.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Service.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\EntityFramework.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\Newtonsoft.Json.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Mvc.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Razor.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.csprojResolveAssemblyReference.cache
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Infrastructure.EF.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Infrastructure.EF.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Repository.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Repository.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Web.UI.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Web.UI.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\Antlr3.Runtime.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\Microsoft.Web.Infrastructure.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\Newtonsoft.Json.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Domain.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Infrastructure.EF.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Service.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Net.Http.Formatting.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.WebHost.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Mvc.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Optimization.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Providers.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Razor.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Deployment.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Razor.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\WebGrease.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Repository.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Domain.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Infrastructure.EF.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Service.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\Newtonsoft.Json.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Net.Http.Formatting.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Http.WebHost.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Mvc.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.Razor.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Deployment.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\System.Web.WebPages.Razor.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\bin\SchoolSystem.Repository.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Web.UI\obj\Debug\SchoolSystem.Web.UI.pdb

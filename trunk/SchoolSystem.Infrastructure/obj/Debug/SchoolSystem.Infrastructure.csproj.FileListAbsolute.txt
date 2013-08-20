@@ -1,0 +1,5 @@
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\SchoolSystem.Infrastructure.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure\bin\Debug\SchoolSystem.Infrastructure.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\SchoolSystem.Infrastructure.csprojResolveAssemblyReference.cache
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\SchoolSystem.Infrastructure.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Infrastructure\obj\Debug\SchoolSystem.Infrastructure.pdb

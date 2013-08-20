@@ -1,0 +1,28 @@
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.dll.config
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Domain.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Domain.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.pdb
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.xml
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.csprojResolveAssemblyReference.cache
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.dll
+D:\Workspace\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.dll.config
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Domain.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Domain.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.pdb
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.csprojResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.pdb
