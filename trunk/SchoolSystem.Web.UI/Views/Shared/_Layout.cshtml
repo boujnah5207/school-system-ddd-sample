@@ -4,8 +4,6 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width" />
     <title>@ViewBag.Title</title>
-    @Styles.Render("~/Content/css")
-    @Scripts.Render("~/bundles/modernizr")
 </head>
 <body>
     <div id="wrapper">
@@ -13,20 +11,12 @@
             <h1>S</h1>
         </header>
         <nav>
-            <ul id="menu">
-                <li>@Html.ActionLink("Home", "Index", "Home")</li>
-                <li>@Html.ActionLink("About", "About", "Home")</li>
-                <li>@Html.ActionLink("Students", "Index", "Student")</li>
-                <li>@Html.ActionLink("Courses", "Index", "Course")</li>
-                <li>@Html.ActionLink("Instructors", "Index", "Instructor")</li>
-                <li>@Html.ActionLink("Departments", "Index", "Department")</li>
-            </ul>
+       
         </nav>
         <section id="main-section">
             @RenderBody()
         </section>
     </div>
-    @Scripts.Render("~/bundles/jquery")
     @RenderSection("scripts", required: false)
 </body>
 </html>

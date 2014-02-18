@@ -5,6 +5,5 @@ D:\Workspace\SchoolSystem\SchoolSystem.Domain\obj\Debug\SchoolSystem.Domain.dll
 D:\Workspace\SchoolSystem\SchoolSystem.Domain\obj\Debug\SchoolSystem.Domain.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Domain\bin\Debug\SchoolSystem.Domain.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Domain\bin\Debug\SchoolSystem.Domain.pdb
-D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Domain\obj\Debug\SchoolSystem.Domain.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Domain\obj\Debug\SchoolSystem.Domain.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Domain\obj\Debug\SchoolSystem.Domain.pdb

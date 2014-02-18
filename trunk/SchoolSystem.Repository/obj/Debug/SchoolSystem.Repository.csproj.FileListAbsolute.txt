@@ -16,6 +16,7 @@ D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bi
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Repository.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.SqlServer.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Domain.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.dll
@@ -23,6 +24,7 @@ D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bi
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\SchoolSystem.Infrastructure.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\bin\Debug\EntityFramework.SqlServer.xml
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Repository\obj\Debug\SchoolSystem.Repository.pdb

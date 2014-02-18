@@ -12,9 +12,11 @@ D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructur
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Infrastructure.EF.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.dll
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.SqlServer.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\SchoolSystem.Domain.pdb
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.xml
+D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\bin\Debug\EntityFramework.SqlServer.xml
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.csprojResolveAssemblyReference.cache
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.dll
 D:\Documents\Visual Studio 2012\Projects\SchoolSystem\SchoolSystem.Infrastructure.EF\obj\Debug\SchoolSystem.Infrastructure.EF.pdb
