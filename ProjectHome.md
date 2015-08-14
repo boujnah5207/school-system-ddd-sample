@@ -1,0 +1,1 @@
+A project intended to put in practice the concepts of Domain Driven Development using ASP.NET MVC 4 and Entity Framework.
